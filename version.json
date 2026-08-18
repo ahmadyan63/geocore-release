@@ -1,5 +1,5 @@
 {
-  "version": "3.49",
+  "version": "3.54",
   "release_notes": "• رفع اشکال ارسال گزارش تجمعی به سایت\n• افزودن وزن پلیت به مهار متقابل\n• راست‌چین شدن فرم تعریف دیوار\n• رفع باز شدن ناخواستهٔ فرم مهار هنگام زوم",
   "download_url": "https://github.com/ahmadyan63/REPO/releases/download/v3.49/GEOcore_Setup.exe",
   "mandatory": false
