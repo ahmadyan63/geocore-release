@@ -2,5 +2,5 @@
   "version": "3.56",
   "release_notes": "رفع مشکل آپدیت",
   "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/3.56/GEOcore_Update_3.56.exe",
-  "mandatory": false
+  "mandatory": true
 }
