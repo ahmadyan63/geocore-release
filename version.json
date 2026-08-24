@@ -1,6 +1,6 @@
 {
-  "version": "3.76",
-  "release_notes": "اصلاح انبار",
+  "version": "3.78",
+  "release_notes": "اصلاح کاتولوگ مرکزی",
   "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/3.76/GEOcore_Update_3.76.exe",
   "mandatory": false
 }
