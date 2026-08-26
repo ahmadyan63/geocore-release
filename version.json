@@ -1,6 +1,6 @@
 {
-  "version": "3.84",
-  "release_notes": "اصلاح کاتولوگ مرکزی و افزودن ربات تلگرام",
+  "version": "3.89",
+  "release_notes": "اصلاح کاتالوگ",
   "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/3.84/GEOcore_Update_3.84.exe",
   "mandatory": false
 }
