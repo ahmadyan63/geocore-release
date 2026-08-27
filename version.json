@@ -1,6 +1,6 @@
 {
-  "version": "3.90",
-  "release_notes": "- دگمه ذخیره اضافه شد. اصلاح کاتالوگ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/3.90/GEOcore_Update_3.90.exe",
+  "version": "3.93",
+  "release_notes": "حذف تب منابع و اضافه شدن انبار مرکزی",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/3.93/GEOcore_Update_3.93.exe",
   "mandatory": false
 }
