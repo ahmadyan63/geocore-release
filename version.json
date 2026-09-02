@@ -1,6 +1,6 @@
 {
-  "version": "4.02",
-  "release_notes": "اصلاح کاتالوگ مرکزی به سایت",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.02/GEOcore_Update_4.02.exe",
+  "version": "4.03",
+  "release_notes": "افزودن عکس به backup",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.03/GEOcore_Update_4.03.exe",
   "mandatory": false
 }
