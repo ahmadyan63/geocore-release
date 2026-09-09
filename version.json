@@ -1,6 +1,6 @@
 {
-  "version": "4.09",
-  "release_notes": "minor improvements, telegram message",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.09/GEOcore_Update_4.09.exe",
+  "version": "4.11",
+  "release_notes": "minor improvements, میلگرد شمع بتنی تفکیک شد",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.11/GEOcore_Update_4.11.exe",
   "mandatory": false
 }
