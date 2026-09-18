@@ -1,6 +1,6 @@
 {
-  "version": "4.16",
-  "release_notes": "minor improvements, ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.16/GEOcore_Update_4.16.exe",
+  "version": "4.18",
+  "release_notes": "added rejection reasons ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.18/GEOcore_Update_4.18.exe",
   "mandatory": false
 }
