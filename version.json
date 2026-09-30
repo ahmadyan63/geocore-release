@@ -1,6 +1,6 @@
 {
-  "version": "4.35",
-  "release_notes": "Added price field in entrance tab ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.35/GEOcore_Update_4.35.exe",
+  "version": "4.37",
+  "release_notes": "Added comments in each tab ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.37/GEOcore_Update_4.37.exe",
   "mandatory": false
 }
