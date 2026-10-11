@@ -1,6 +1,6 @@
 {
-  "version": "4.59",
-  "release_notes": "کار مهندسی یعنی دقت این اصلاح برای افزایش دقت شماست ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.59/GEOcore_Update_4.59.exe",
+  "version": "4.60",
+  "release_notes": "اصلاح برگشت انبار ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.60/GEOcore_Update_4.60.exe",
   "mandatory": false
 }
