@@ -1,6 +1,6 @@
 {
-  "version": "4.60",
-  "release_notes": "اصلاح برگشت انبار ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.60/GEOcore_Update_4.60.exe",
+  "version": "4.61",
+  "release_notes": "افزودن آب و هوا و حروجی اکسل به گزارش روزانه ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.61/GEOcore_Update_4.61.exe",
   "mandatory": false
 }
