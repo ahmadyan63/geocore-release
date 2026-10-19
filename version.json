@@ -1,6 +1,6 @@
 {
-  "version": "4.70",
-  "release_notes": "minor improvements ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.70/GEOcore_Update_4.70.exe",
+  "version": "4.77",
+  "release_notes": "صورت جلسات اضافه شد. اندیکاتور نامه اصلاح شد ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.77/GEOcore_Update_4.77.exe",
   "mandatory": false
 }
