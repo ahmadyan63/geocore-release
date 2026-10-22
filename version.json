@@ -1,6 +1,6 @@
 {
-  "version": "4.86",
-  "release_notes": "fixed bugs ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.86/GEOcore_Update_4.86.exe",
+  "version": "4.87",
+  "release_notes": "minor improvements ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.87/GEOcore_Update_4.87.exe",
   "mandatory": false
 }
