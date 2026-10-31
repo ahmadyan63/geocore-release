@@ -1,6 +1,6 @@
 {
-  "version": "4.99",
-  "release_notes": "modified walls, some bug fixes ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/4.99/GEOcore_Update_4.99.exe",
+  "version": "5.00",
+  "release_notes": "Added plates to trusses ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/5.00/GEOcore_Update_5.00.exe",
   "mandatory": false
 }
