@@ -1,6 +1,6 @@
 {
-  "version": "5.05",
-  "release_notes": "تایید شفاهی کارفرما به گزارش روزانه افزوده شد ، تاخیر در پرداخت صورت وضعیت در تب کلیم اضاقه شد ، گزارش مشکلات به روز شد ",
-  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/5.05/GEOcore_Update_5.05.exe",
+  "version": "5.11",
+  "release_notes": "آخرین نقشه به سامانه افزوده شد ، به روزرسانی گزارش تجمعی   ",
+  "download_url": "https://github.com/ahmadyan63/geocore-release/releases/download/5.11/GEOcore_Update_5.11.exe",
   "mandatory": false
 }
